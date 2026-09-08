@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://richardrojas.bio/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://richardrojas.bio/og-cover.jpg</image:loc>
+      <image:title>Prof. Abg. Richard B. Rojas Justiniano — Director de la Carrera de Derecho UAGRM · Abogado Penalista</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://richardrojas.bio/CV_Richard_Rojas_Justiniano.pdf</loc>
+    <lastmod>2026-07-08</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://richardrojas.bio/Biografia_Richard_Rojas_Justiniano.pdf</loc>
+    <lastmod>2026-07-08</lastmod>
+    <priority>0.7</priority>
+  </url>
+</urlset>

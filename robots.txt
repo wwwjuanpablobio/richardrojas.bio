@@ -1,0 +1,5 @@
+# richardrojas.bio
+User-agent: *
+Allow: /
+
+Sitemap: https://richardrojas.bio/sitemap.xml
